@@ -12,7 +12,7 @@
 
 1. Bluetooth Disease Tracker (Contains sensitive information regarding API access and database credentials)
 
-2. License Audit (Contains sensitive information regardinng extracting information from HTML files)
+2. License Audit (Contains sensitive information regarding extracting information from HTML files)
 
 3. Websites: Hayden-warren, HypeATX, etc. (Contains API keys within codebase due to hosting on GitHub pages)
 
