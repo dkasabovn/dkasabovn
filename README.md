@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey! 👋 I'm Daniel K.
 
-<!--
-**dkasabovn/dkasabovn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### If you're here from a college I applied to don't worry! I'll save you the hassle of navigating my projects.
 
-Here are some ideas to get you started:
+1. [Pure Pursuit](https://github.com/dkasabovn/2019-2020)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2. [Portfolio](https://github.com/dkasabovn/portfolio)
+
+3. [SpotMicro](https://github.com/dkasabovn/DKSpotMicro)
+
+#### Looking for something else? The following respositories are private due to confidential information being in the application
+
+1. Bluetooth Disease Tracker (Contains sensitive information regarding API access and database credentials)
+
+2. License Audit (Contains sensitive information regardinng extracting information from HTML files)
+
+3. Websites: Hayden-warren, HypeATX, etc. (Contains API keys within codebase due to hosting on GitHub pages)
+
+#### If you want access to one of these repositories please contact me directly and I can provide temporary access
+
+### Need anything else? Don't hesitate to snoop around or simply contact me!
