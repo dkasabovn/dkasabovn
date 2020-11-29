@@ -1,6 +1,6 @@
 ### Hey! 👋 I'm Daniel K.
 
-#### If you're here from a college I applied to don't worry! I'll save you the hassle of navigating my projects.
+#### Here are some of my projects!.
 
 1. [Pure Pursuit](https://github.com/dkasabovn/2019-2020)
 
